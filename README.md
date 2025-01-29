@@ -1,6 +1,6 @@
-- 👋 Hi, I’m tony
+- 👋 Hi, I’m Tony
 - I’m interested in ...coding and computers
-- I’m currently learning Cybersecurity
-- I’m looking to collaborate on ...anything related
+- currently learning Cybersecurity
+- looking to collaborate on ...anything related
 
 
